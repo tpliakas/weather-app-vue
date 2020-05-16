@@ -1,4 +1,7 @@
-# weather-app-with-vue
+# Weather app using VueJS
+Project for 1st time intro to Vue.
+
+Using OpenWeather API: https://openweathermap.org/api
 
 ## Project setup
 ```
@@ -14,11 +17,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
